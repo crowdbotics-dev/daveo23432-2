@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [camera]()
 - [terms-and-conditions]()
 - [django-social-auth](backend/modules/social-auth)
+- [django-push-notifications](backend/modules/push-notifications)
 
 # Getting started: Frontend
 
